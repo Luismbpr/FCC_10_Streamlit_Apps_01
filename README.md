@@ -18,7 +18,7 @@
 * [Libraries Used](#libraries-used)
 * [Other Libraries Used](#other-libraries-used)
 * [Other Resources](#other-resources)
-* [Resources](#[resources)
+* [Resources](#resources)
 
 
 ## About
@@ -108,10 +108,12 @@ These are some of the libraries used:
     yfinance
 
 ## Other Libraries Used
-jupyter==1.0.0
-jupyterlab==4.0.3
-nb_conda_kernels==2.3.1
-protobuf==4.23.4
+List of other libraries:
+
+    jupyter==1.0.0
+    jupyterlab==4.0.3
+    nb_conda_kernels==2.3.1
+    protobuf==4.23.4
 
 
 ## Resources

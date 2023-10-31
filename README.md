@@ -11,20 +11,17 @@
 
 ## Table of Contents
 
-* [About Project](#about-project)
+* [About](#about)
 * [Web App Description](#webb-app-description)
+* [General Information](#general-information)
 * [Languages Used](#languages-used)
-* [Common Libraries Used](#common-libraries-used)
+* [Libraries Used](#libraries-used)
+* [Other Libraries Used](#other-libraries-used)
 * [Other Resources](#other-resources)
-* [Other Information](#other-information)
-* [Resources](#resources)
-* [](#)
-* [](#)
+* [Resources](#[resources)
 
 
-***
-
-## About Project
+## About
 
 Creation of 10 Streamlit Web Apps using Machine Learning Techniques.
 
@@ -62,6 +59,27 @@ Creation of 10 Streamlit Web Apps using Machine Learning Techniques.
     Solubility (LogS) prediction.
 
 
+## General Information
+
+Each Project Contains all the required information for that app.
+
+The following files will be located on each of the project folders:
+
+requirements.txt
+    Requirements for that specific app.
+
+App Markdown File
+    Markdown file with information about the app.
+
+Data Folder
+    (If needed) Folder containing all the required data.
+
+Notebooks Folder
+    Folder containing some of the Notebooks used before creating the python files.
+
+Other Resources Folder
+
+
 ## Languages Used
 * Python
     Python==3.10.12
@@ -89,8 +107,11 @@ These are some of the libraries used:
     streamlit
     yfinance
 
-
-## Other Resources
+## Other Libraries Used
+jupyter==1.0.0
+jupyterlab==4.0.3
+nb_conda_kernels==2.3.1
+protobuf==4.23.4
 
 
 ## Resources

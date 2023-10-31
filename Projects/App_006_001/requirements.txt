@@ -1,0 +1,9 @@
+Python==3.10.12
+beautifulsoup4==4.12.2
+json5==0.9.14
+matplotlib==3.5.1
+numpy==1.24.4
+pandas==2.0.3
+pillow==9.0.1
+requests==2.31.0
+streamlit==1.26.0

@@ -1,0 +1,7 @@
+Python==3.10.12
+altair==5.0.1
+matplotlib==3.5.1
+numpy==1.24.4
+pandas==2.0.3
+pillow==9.0.1
+streamlit==1.26.0

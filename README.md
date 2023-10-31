@@ -85,7 +85,6 @@ Other Resources Folder
     Python==3.10.12
 
 * HTML
-    - HTML for formatting.
 
 
 ## Libraries Used

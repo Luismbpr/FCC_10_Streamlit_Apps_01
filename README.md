@@ -32,10 +32,10 @@ Creation of 10 Streamlit Web Apps using Machine Learning Techniques.
 ## Web App Description
 
 1. Stock Closing Price
-    Web App that shows the Stock Closing Price and Volume for a specific company.
+    Shows the Stock Closing Price and Volume for a specific company.
 
 2. DNA Nucleotide Count Web App
-    Web app that counts each of the four nucleotides on a given DNA Sequence.
+    Counts each of the four nucleotides on a given DNA Sequence.
 
 3.  NBA Player Stats
     Retrieving NBA Player Statistics from the internet.
@@ -47,7 +47,7 @@ Creation of 10 Streamlit Web Apps using Machine Learning Techniques.
     Retrieving S&P Stock Closing Price Information from the internet.
 
 6. Top 100 Cryptocurrency Prices
-    Top 100 Cryptocurrency prices.
+    Shows Top 100 Cryptocurrency prices in a time period.
 
 7. Iris Classification
     Iris Species Classification.
@@ -56,51 +56,49 @@ Creation of 10 Streamlit Web Apps using Machine Learning Techniques.
     Penguin Species Classification.
 
 9. California Housing
-    Regression of Median House Value.
-    
+    Regression on California Housing Dataset.
 
 10. Solubility Prediction
     Solubility (LogS) prediction.
 
+
 ## Languages Used
 * Python
     Python==3.10.12
+
 * HTML
     - HTML for formatting.
-* Markdown
 
 
-## Common Libraries Used
-altair
-beautifulsoup4
-json5
-matplotlib
-numpy
-pandas
-pickleshare
-pillow
-requests
-rdkit
-scikit-learn
-scipy
-seaborn
-shap
-streamlit
-yfinance
+## Libraries Used
+These are some of the libraries used:
+    altair
+    beautifulsoup4
+    json5
+    matplotlib
+    numpy
+    pandas
+    pickleshare
+    pillow
+    requests
+    rdkit
+    scikit-learn
+    scipy
+    seaborn
+    shap
+    streamlit
+    yfinance
 
 
 ## Other Resources
 
 
 ## Resources
-Resources located on each of the apps.
+Resources located on the markdown file included on each of the file app folder.
 
 ###### *Code based on [Free Code Camp](https://www.freecodecamp.org/). Special Thanks to Free Code Camp and instructor Chanin Nantasenamat*
 
 ##### Thank you kindly to all who make information and knowledge available for free.
-
-
-## 
 
 ----
 

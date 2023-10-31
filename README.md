@@ -90,6 +90,7 @@ Other Resources Folder
 
 ## Libraries Used
 These are some of the libraries used:
+
     altair
     beautifulsoup4
     json5

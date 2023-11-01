@@ -1,7 +1,6 @@
-Python==3.10
-matplotlib==3.5.1
-numpy==1.24.4
-pandas==2.0.3
-pillow==9.0.1
-seaborn==0.11.2
-streamlit==1.26.0
+pip install matplotlib==3.5.1
+pip install numpy==1.24.4
+pip install pandas==2.0.3
+pip install pillow==9.0.1
+pip install seaborn==0.11.2
+pip install streamlit==1.26.0

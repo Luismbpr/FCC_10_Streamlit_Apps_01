@@ -222,6 +222,5 @@ st.write("""
          [Kristen Gorman - Author](https://www.uaf.edu/cfos/people/faculty/detail/kristen-gorman.php)\n
          [Streamlit](https://streamlit.io/)
          """)
-
-st.write('###### [Free Code Camp](https://www.freecodecamp.org/). Special Thanks to Free Code Camp and Chanin Nantasenamat*')
-st.write("##### Thank you kindly to all who make information and knowledge available for free.")
+st.write('###### [Special Thanks to Free Code Camp and Chanin Nantasenamat](https://www.freecodecamp.org/).')
+st.write('###### Thank you kindly to all who make information and knowledge available for free.')

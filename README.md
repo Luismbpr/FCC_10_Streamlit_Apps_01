@@ -68,19 +68,19 @@ Each Project Contains all the required information for that app.
 
 The following files will be located on each of the project folders:
 
-requirements.txt
-- Requirements for that specific app.\n
+- requirements.txt
+    Requirements for that specific app.\n
 
-App Markdown File
-- Markdown file with information about the app.\n
+- App Markdown File
+    Markdown file with information about the app.\n
 
-Data Folder
-- (If needed) Folder containing all the required data.\n
+- Data Folder
+    (If needed) Folder containing all the required data.\n
 
-Notebooks Folder
-- Folder containing some of the Notebooks used before creating the python files.\n
+- Notebooks Folder
+    Folder containing some of the Notebooks used before creating the python files.\n
 
-Other Resources Folder
+- Other Resources Folder
 
 <br>
 

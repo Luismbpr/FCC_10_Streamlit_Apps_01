@@ -12,7 +12,9 @@ from PIL import Image
 import seaborn as sns
 import streamlit as st
 
-image_01 = Image.open(fp='./Projects/App_003_001/App_003_001_Exported/Data/Images/Facebook Cover 01.jpeg', mode='r', formats=None)
+#image_01 = Image.open(fp='./Projects/App_003_001/App_003_001_Exported/Data/Images/Facebook Cover 01.jpeg', mode='r', formats=None)
+image_01 = Image.open(fp='Projects/App_003_001/Data/Images/Facebook Cover 01.jpeg', mode='r', formats=None)
+
 st.image(image_01, use_column_width=True)
 
 st.markdown("""

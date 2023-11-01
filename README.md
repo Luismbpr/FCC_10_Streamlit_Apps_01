@@ -21,10 +21,13 @@
 * [Resources](#resources)
 
 
+<br>
+
 ## About
 
 Creation of 10 Streamlit Web Apps using Machine Learning Techniques.
 
+<br>
 
 ## Web App Description
 
@@ -58,7 +61,7 @@ Creation of 10 Streamlit Web Apps using Machine Learning Techniques.
 10. Solubility Prediction
     Solubility (LogS) prediction.
 
-
+<br>
 ## General Information
 
 Each Project Contains all the required information for that app.
@@ -66,19 +69,20 @@ Each Project Contains all the required information for that app.
 The following files will be located on each of the project folders:
 
 requirements.txt
-    Requirements for that specific app.
+- Requirements for that specific app.\n
 
 App Markdown File
-    Markdown file with information about the app.
+- Markdown file with information about the app.\n
 
 Data Folder
-    (If needed) Folder containing all the required data.
+- (If needed) Folder containing all the required data.\n
 
 Notebooks Folder
-    Folder containing some of the Notebooks used before creating the python files.
+- Folder containing some of the Notebooks used before creating the python files.\n
 
 Other Resources Folder
 
+<br>
 
 ## Languages Used
 * Python
@@ -86,7 +90,7 @@ Other Resources Folder
 
 * HTML
 
-
+<br>
 ## Libraries Used
 These are some of the libraries used:
 
@@ -107,6 +111,7 @@ These are some of the libraries used:
     streamlit
     yfinance
 
+<br>
 ## Other Libraries Used
 List of other libraries:
 
@@ -115,6 +120,7 @@ List of other libraries:
     nb_conda_kernels==2.3.1
     protobuf==4.23.4
 
+<br>
 
 ## Resources
 Resources located on the markdown file included on each of the file app folder.
@@ -124,9 +130,3 @@ Resources located on the markdown file included on each of the file app folder.
 ##### Thank you kindly to all who make information and knowledge available for free.
 
 ----
-
-
-
-
-
-

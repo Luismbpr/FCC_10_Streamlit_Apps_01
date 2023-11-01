@@ -30,7 +30,7 @@ st.write("""
 
 st.write("""---""")
 
-calif_raw = pd.read_csv('Projects/App_009_001/App_009_001_Exported/Data/housing.csv')
+calif_raw = pd.read_csv('Projects/App_009_001/Data/housing.csv')
 calif_raw['total_bedrooms'] = calif_raw['total_bedrooms'].replace({np.nan:calif_raw['total_bedrooms'].median()})
 X = calif_raw.drop(columns=['median_house_value'], axis=1)
 
@@ -59,7 +59,7 @@ input_df = user_input_features()
 
 ################################################################################################################################################################
 ## Opening raw csv
-calif_raw = pd.read_csv('Projects/App_009_001/App_009_001_Exported/Data/housing.csv')
+calif_raw = pd.read_csv('Projects/App_009_001/Data/housing.csv')
 
 ## Replacing missing values with median values
 calif_raw['total_bedrooms'] = calif_raw['total_bedrooms'].replace({np.nan:calif_raw['total_bedrooms'].median()})
@@ -112,7 +112,7 @@ st.write('---')
 
 ## Open ML Model - Regression Model
 ### Reading the Model
-load_reg = pickle.load(open('Projects/App_009_001/App_009_001_Exported/Data/Saved_Models/Model_calif_housing_forest.pkl', 'rb'))
+load_reg = pickle.load(open('Projects/App_009_001/Data/Saved_Models/Model_calif_housing_forest.pkl', 'rb'))
 
 ## Apply model to make prediction
 ## A) Can either use this
@@ -258,5 +258,5 @@ st.write("""
          """)
 st.write('')
 st.write('')
-st.write('###### *Code based on [Free Code Camp](https://www.freecodecamp.org/). Special Thanks to Free Code Camp and instructor Chanin Nantasenamat*')
+st.write('###### [Special Thanks to Free Code Camp and Chanin Nantasenamat](https://www.freecodecamp.org/).')
 st.write("##### Thank you kindly to all who make information and knowledge available for free.")

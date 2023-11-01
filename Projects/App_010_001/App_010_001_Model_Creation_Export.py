@@ -167,5 +167,5 @@ pickle.dump(obj=model_lr_01, file=open('Projects/App_010_001/App_010_001_Exporte
 #### [Data Source John S. Delaney. ESOL:  Estimating Aqueous Solubility Directly from Molecular Structure ***J. Chem. #Inf. Comput. Sci.*** 2004, 44, 3, 1000-1005](https://pubs.acs.org/doi/10.1021/ci034243x)\n
 #### [Streamlit](https://streamlit.io/)
 #### [Adding Trendline](https://stackoverflow.com/questions/26447191/how-to-add-trendline-in-python-matplotlib-dot-scatter-graphs)
-#### *Code based on [Free Code Camp](https://www.freecodecamp.org/). Special Thanks to Free Code Camp and instructor Chanin Nantasenamat*
-#### Thank you kindly to all who make information and knowledge available for free.
+#### [Special Thanks to Free Code Camp and Chanin Nantasenamat](https://www.freecodecamp.org/)
+#### Thank you kindly to all who make information and knowledge available for free

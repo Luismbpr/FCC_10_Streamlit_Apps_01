@@ -19,7 +19,7 @@ import time
 st.set_page_config(layout="wide")
 
 #image = Image.open("logo.jpg")
-image = Image.open('Projects/App_006_001/App_006_001_Exported/Data/Images/App_006_001_Resources/pexels-david-mcbee-730547.jpg')
+image = Image.open('Projects/App_006_001/Data/Images/pexels-david-mcbee-730547.jpg')
 st.image(image, width=500)
 
 st.title("Crypto Price App")

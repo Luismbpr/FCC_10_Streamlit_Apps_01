@@ -88,6 +88,5 @@ st.write("""
          [Fisher,R. A.. (1988). Iris. UCI Machine Learning Repository. https://doi.org/10.24432/C56C76.](https://archive.ics.uci.edu/dataset/53/iris)\n
          [Streamlit](https://streamlit.io/)
          """)
-
-st.write('###### *Code based on [Free Code Camp](https://www.freecodecamp.org/). Special Thanks to Free Code Camp and instructor Chanin Nantasenamat*')
-st.write('##### Thank you kindly to all who make information and knowledge available for free.')
+st.write('###### [Special Thanks to Free Code Camp and Chanin Nantasenamat](https://www.freecodecamp.org/).')
+st.write('###### Thank you kindly to all who make information and knowledge available for free.')

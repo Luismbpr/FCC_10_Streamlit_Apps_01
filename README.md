@@ -97,6 +97,7 @@ These are some of the libraries used:
     altair
     beautifulsoup4
     json5
+    lxml
     matplotlib
     numpy
     pandas

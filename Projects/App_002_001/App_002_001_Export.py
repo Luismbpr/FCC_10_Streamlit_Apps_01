@@ -12,7 +12,7 @@ import altair as alt
 from PIL import Image
 
 
-image_01 = Image.open(fp='./Projects/App_002_001/App_002_001_Exported/Data/Images/app_002_image_01.jpeg', mode='r', formats=None)
+image_01 = Image.open(fp='Projects/App_002_001/App_002_001_Exported/Data/Images/app_002_image_01.jpeg', mode='r', formats=None)
 st.image(image_01, use_column_width=True)
 
 st.write('')

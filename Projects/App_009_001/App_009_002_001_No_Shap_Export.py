@@ -19,7 +19,7 @@ st.set_page_config(layout="wide")## New Modif
 
 st.header("""California Housing Data App""")
 
-image_01 = Image.open('./App_009_001/App_009_001_Exported/Data/Images/Housing.jpg')
+image_01 = Image.open('Projects/App_009_001/Data/Images/Housing.jpg')
 st.image(image_01, width=500)
 
 st.header("""California Housing Data App""")
@@ -31,8 +31,7 @@ st.write("""
 st.write("""---""")
 
 ### Data Preprocessing
-#calif_raw = pd.read_csv('/Users/luis/Documents/Programming/Courses_Programming/FCC_Build_12_DS_Apps_Python_Streamlit/venv_FCC_Build_12_DS_Apps_Python_Streamlit_310/Projects/App_009_002/App_009_002_Data/housing.csv')
-calif_raw = pd.read_csv('./Projects/App_009_001/App_009_001_Exported/Data/housing.csv')
+calif_raw = pd.read_csv('Projects/App_009_001/App_009_001_Exported/Data/housing.csv')
 calif_raw['total_bedrooms'] = calif_raw['total_bedrooms'].replace({np.nan:calif_raw['total_bedrooms'].median()})
 X = calif_raw.drop(columns=['median_house_value'], axis=1)
 
@@ -61,8 +60,7 @@ def user_input_features():
 input_df = user_input_features()
 
 ## Opening raw csv
-#calif_raw = pd.read_csv('/Users/luis/Documents/Programming/Courses_Programming/FCC_Build_12_DS_Apps_Python_Streamlit/venv_FCC_Build_12_DS_Apps_Python_Streamlit_310/Projects/App_009_002/App_009_002_Data/housing.csv')
-calif_raw = pd.read_csv('./Projects/App_009_001/App_009_001_Exported/Data/housing.csv')
+calif_raw = pd.read_csv('Projects/App_009_001/App_009_001_Exported/Data/housing.csv')
 
 ## Replacing missing values with median values
 calif_raw['total_bedrooms'] = calif_raw['total_bedrooms'].replace({np.nan:calif_raw['total_bedrooms'].median()})

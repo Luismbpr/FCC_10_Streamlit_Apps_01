@@ -16,9 +16,9 @@ from sklearn.ensemble import RandomForestClassifier
 from PIL import Image
 
 
-df = pd.read_csv('./Projects/App_008_001/App_008_001_Exported/Data/penguins_cleaned.csv')
+df = pd.read_csv('Projects/App_008_001/App_008_001_Exported/Data/penguins_cleaned.csv')
 
-image_01 = Image.open(fp='./Projects/App_008_001/App_008_001_Exported/Data/Images/penguins_01.jpeg', mode='r', formats=None)
+image_01 = Image.open(fp='Projects/App_008_001/App_008_001_Exported/Data/Images/penguins_01.jpeg', mode='r', formats=None)
 st.image(image_01, use_column_width=True)
 
 st.write("""
@@ -29,7 +29,7 @@ st.write("""
 st.sidebar.header('User Input Features')
 
 st.sidebar.markdown("""
-                    [Example CSV Input File]([Example CSV input file](https://github.com/Luismbpr/)
+                    [Example CSV Input File]([Example CSV input file](https://github.com/Luismbpr/FCC_10_Streamlit_Apps_01/blob/main/Projects/App_008_001/Data/penguins_new_input_same_order.csv)
                     """)
 
 st.sidebar.markdown("""
@@ -73,7 +73,7 @@ else:
 ## Combining user input with the entire dataset
 ## This will be useful in the encoding phase
 
-penguins_raw = pd.read_csv('./Projects/App_008_001/App_008_001_Exported/Data/penguins_cleaned.csv')
+penguins_raw = pd.read_csv('Projects/App_008_001/App_008_001_Exported/Data/penguins_cleaned.csv')
 penguins = penguins_raw.drop(columns=['species'], axis=1)
 df = pd.concat([input_df, penguins], axis=0)
 
@@ -139,7 +139,7 @@ else:
 
 ### Read in saved classification model (Random Forest Classifier)
 ### pickle.load(open(path, 'rb'))
-load_clf = pickle.load(open('./Projects/App_008_001/App_008_001_Exported/Data/Saved_Models/model_02.pkl', 'rb'))
+load_clf = pickle.load(open('Projects/App_008_001/App_008_001_Exported/Data/Saved_Models/model_02.pkl', 'rb'))
 
 ## Apply model to make predictions
 prediction = load_clf.predict(df)

@@ -29,7 +29,7 @@ from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 pd.set_option('display.max_columns', None)
 pd.options.display.float_format = '{:.2f}'.format
 
-df = pd.read_csv('./Projects/App_009_001/App_009_001_Exported/Data/housing.csv')
+df = pd.read_csv('Projects/App_009_001/App_009_001_Exported/Data/housing.csv')
 
 df.head()
 #df.isna().sum()
@@ -237,7 +237,7 @@ def model_to_train_regression(model_std_name = 'model_std_name',
 pd.set_option('display.max_columns', None)
 pd.options.display.float_format = '{:.2f}'.format
 
-df = pd.read_csv('./Projects/App_009_001/App_009_001_Exported/Data/housing.csv')
+df = pd.read_csv('Projects/App_009_001/App_009_001_Exported/Data/housing.csv')
 
 df.head()
 #df.isna().sum()
@@ -317,7 +317,7 @@ model_to_train_regression(model_std_name = 'model_forest_02_to_grid',
                             regression = True,
                             save_model = True,
                             #save_model_name = 'saved_model01.pkl',
-                            path_and_name_to_save = './Projects/App_009_001/App_009_001_Exported/Data/Saved_Models/App_009_model_Regression.pkl')
+                            path_and_name_to_save = 'Projects/App_009_001/App_009_001_Exported/Data/Saved_Models/App_009_model_Regression.pkl')
 
 
 #trained_model_info_ls

@@ -70,7 +70,7 @@ def generate(smiles, verbose=False):
 ######################
 ## Page Title
 ######################
-image_01 = Image.open('./Projects/App_010_001/App_010_001_Exported/Data/Images/app_10_01_002.jpeg')
+image_01 = Image.open('Projects/App_010_001/App_010_001_Exported/Data/Images/app_10_01_002.jpeg')
 
 st.image(image_01)
 
@@ -113,7 +113,7 @@ st.markdown('')
 ######################
 
 ## Loading Model
-load_model = pickle.load(open('./Projects/App_010_001/App_010_001_Exported/Data/Saved_Models/App_010_model_lr_01.pkl', 'rb'))
+load_model = pickle.load(open('Projects/App_010_001/App_010_001_Exported/Data/Saved_Models/App_010_model_lr_01.pkl', 'rb'))
 
 prediction = load_model.predict(X)
 

@@ -16,7 +16,7 @@ import base64
 st.header("NFL Football Stats (Rushing) Explorer")
 st.write('')
 
-image_01 = Image.open(fp='./Projects/App_004_001/App_004_001_Exported/Data/Images/drawing_nfl_01.jpg', mode='r', formats=None)
+image_01 = Image.open(fp='Projects/App_004_001/App_004_001_Exported/Data/Images/drawing_nfl_01.jpg', mode='r', formats=None)
 st.image(image_01, use_column_width=True)
 
 st.write('')

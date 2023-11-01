@@ -29,7 +29,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import confusion_matrix, classification_report, accuracy_score, ConfusionMatrixDisplay
 import matplotlib.pyplot as plt
 
-df = pd.read_csv('./Projects/App_008_001/App_008_001_Exported/Data/penguins_cleaned.csv')
+df = pd.read_csv('Projects/App_008_001/App_008_001_Exported/Data/penguins_cleaned.csv')
 
 ### y = species
 target = 'species'
@@ -226,10 +226,10 @@ plt.show()
 
 ## Saving Model
 #import pickle
-pickle.dump(model_forest_02, open('./Projects/App_008_001/App_008_001_Exported/Data/Saved_Models/model_01.pkl', 'wb'))
+pickle.dump(model_forest_02, open('Projects/App_008_001/App_008_001_Exported/Data/Saved_Models/model_01.pkl', 'wb'))
 
 ## Opening saved model
-with open('./Projects/App_008_001/App_008_001_Exported/Data/Saved_Models/model_01.pkl', 'rb') as pickle_file:
+with open('Projects/App_008_001/App_008_001_Exported/Data/Saved_Models/model_01.pkl', 'rb') as pickle_file:
     model_02_loaded = pickle.load(pickle_file)
 
 ### Model Predictions

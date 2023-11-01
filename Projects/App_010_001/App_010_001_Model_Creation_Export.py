@@ -17,7 +17,7 @@ import pickle
 
 pd.set_option('display.max_columns', None)
 pd.options.display.float_format = '{:.2f}'.format
-df = pd.read_csv('./Projects/App_010_001/App_010_001_Exported/Data/delaney_solubility_with_descriptors.csv')
+df = pd.read_csv('Projects/App_010_001/App_010_001_Exported/Data/delaney_solubility_with_descriptors.csv')
 
 df.info()
 df.head(3)
@@ -160,7 +160,7 @@ print(p)
 
 ### Saving Model
 import pickle
-pickle.dump(obj=model_lr_01, file=open('./Projects/App_010_001/App_010_001_Exported/Data/Saved_Models/App_010_model_lr_01.pkl', 'wb'), fix_imports=True, buffer_callback=None)
+pickle.dump(obj=model_lr_01, file=open('Projects/App_010_001/App_010_001_Exported/Data/Saved_Models/App_010_model_lr_01.pkl', 'wb'), fix_imports=True, buffer_callback=None)
 
 
 #### Resources:

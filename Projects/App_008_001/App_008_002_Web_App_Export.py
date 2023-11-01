@@ -223,5 +223,5 @@ st.write("""
          [Streamlit](https://streamlit.io/)
          """)
 
-st.write('###### *Code based on [Free Code Camp](https://www.freecodecamp.org/). Special Thanks to Free Code Camp and instructor Chanin Nantasenamat*')
+st.write('###### [Free Code Camp](https://www.freecodecamp.org/). Special Thanks to Free Code Camp and Chanin Nantasenamat*')
 st.write("##### Thank you kindly to all who make information and knowledge available for free.")

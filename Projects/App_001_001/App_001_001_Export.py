@@ -94,7 +94,6 @@ st.write('')
 st.write('')
 st.write('')
 st.write('')
-st.write('')
 
 
 st.write('### Resources:')
@@ -104,6 +103,5 @@ st.write("""
         [Streamlit](https://streamlit.io/)
          """)
 
-st.write('###### *Code based on [Free Code Camp](https://www.freecodecamp.org/). Special Thanks to Free Code Camp and instructor Chanin Nantasenamat*')
-
-st.write('##### Thank you kindly to all who make information and knowledge available for free.')
+st.write('###### [Special Thanks to Free Code Camp and Chanin Nantasenamat](https://www.freecodecamp.org/).')
+st.write('###### Thank you kindly to all who make information and knowledge available for free.')

@@ -33,63 +33,52 @@ Creation of 10 Streamlit Web Apps using Machine Learning Techniques.
 
 
 [1. Stock Closing Price](https://fcc-10strmltapps-app003-001.streamlit.app/)
-
-    Shows the Stock Closing Price and Volume for a specific company.
+Shows the Stock Closing Price and Volume for a specific company.
 
 
 
 [2. DNA Nucleotide Count Web App](https://fcc-10strmltapps-app003-001.streamlit.app/)
-
-    Counts each of the four nucleotides on a given DNA Sequence.
+Counts each of the four nucleotides on a given DNA Sequence.
 
 
 
 [3.  NBA Player Stats](https://fcc-10strmltapps-app003-001.streamlit.app/)
-
-    Retrieving NBA Player Statistics from the internet.
+Retrieving NBA Player Statistics from the internet.
 
 
 
 [4. NFL Player Stats](https://fcc-10strmltapps-app004-001.streamlit.app/)
-
-    Retrieving NFL Player Statistics from the internet.
+Retrieving NFL Player Statistics from the internet.
 
 
 
 [5. S&P 500 Stock Closing Price](https://fcc-10strmltapps-app005-001.streamlit.app/)
-
-    Retrieving S&P Stock Closing Price Information from the internet.
+Retrieving S&P Stock Closing Price Information from the internet.
 
 
 
 [6. Top 100 Cryptocurrency Prices](https://fcc-10strmltapps-app006-001.streamlit.app/)
-
-    Shows Top 100 Cryptocurrency prices in a time period.
+Shows Top 100 Cryptocurrency prices in a time period.
 
 
 
 [7. Iris Classification](https://fcc-10strmltapps-app007-001.streamlit.app/)
-
-    Iris Species Classification.
+Iris Species Classification.
 
 
 
 [8. Penguin Classification](https://fcc-10strmltapps-app008-001.streamlit.app/)
-
-    Penguin Species Classification.
+Penguin Species Classification.
 
 
 
 [9. California Housing](https://fcc-10strmltapps-app009-001.streamlit.app/)
-
-    Regression on California Housing Dataset.
-
+Regression on California Housing Dataset.
 
 
 
 [10. Solubility Prediction](https://fcc-10strmltapps-app010-001.streamlit.app/)
-    Solubility (LogS) prediction.
-
+Solubility (LogS) prediction.
 
 
 <br>

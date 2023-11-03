@@ -32,7 +32,7 @@ Creation of 10 Streamlit Web Apps using Machine Learning Techniques.
 ## Web App Description
 
 
-[1. Stock Closing Price](https://fcc-10strmltapps-app003-001.streamlit.app/)
+[1. Stock Closing Price](https://fcc-10strmltapps-app003-001.streamlit.app/) <br>
 Shows the Stock Closing Price and Volume for a specific company.
 
 

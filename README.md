@@ -32,33 +32,34 @@ Creation of 10 Streamlit Web Apps using Machine Learning Techniques.
 ## Web App Description
 
 1. Stock Closing Price
+[1. Stock Closing Price](https://fcc-10strmltapps-app003-001.streamlit.app/)
     Shows the Stock Closing Price and Volume for a specific company.
 
-2. DNA Nucleotide Count Web App
+3. DNA Nucleotide Count Web App
     Counts each of the four nucleotides on a given DNA Sequence.
 
-3.  NBA Player Stats
+4.  NBA Player Stats
     Retrieving NBA Player Statistics from the internet.
 
-4. NFL Player Stats
+5. NFL Player Stats
     Retrieving NFL Player Statistics from the internet.
 
-5. S&P 500 Stock Closing Price
+6. S&P 500 Stock Closing Price
     Retrieving S&P Stock Closing Price Information from the internet.
 
-6. Top 100 Cryptocurrency Prices
+7. Top 100 Cryptocurrency Prices
     Shows Top 100 Cryptocurrency prices in a time period.
 
-7. Iris Classification
+8. Iris Classification
     Iris Species Classification.
 
-8. Penguin Classification
+9. Penguin Classification
     Penguin Species Classification.
 
-9. California Housing
+10. California Housing
     Regression on California Housing Dataset.
 
-10. Solubility Prediction
+11. Solubility Prediction
     Solubility (LogS) prediction.
 
 <br>

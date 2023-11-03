@@ -31,35 +31,67 @@ Creation of 10 Streamlit Web Apps using Machine Learning Techniques.
 
 ## Web App Description
 
-[1. Stock Closing Price](https://fcc-10strmltapps-app003-001.streamlit.app/)\n
-    Shows the Stock Closing Price and Volume for a specific company.\n
 
-[2. DNA Nucleotide Count Web App](https://fcc-10strmltapps-app003-001.streamlit.app/)\n
-    Counts each of the four nucleotides on a given DNA Sequence.\n
+[1. Stock Closing Price](https://fcc-10strmltapps-app003-001.streamlit.app/)
 
-[3.  NBA Player Stats](https://fcc-10strmltapps-app003-001.streamlit.app/)\n
-    Retrieving NBA Player Statistics from the internet.\n
+    Shows the Stock Closing Price and Volume for a specific company.
 
-[4. NFL Player Stats](https://fcc-10strmltapps-app004-001.streamlit.app/)\n
-    Retrieving NFL Player Statistics from the internet.\n
 
-[5. S&P 500 Stock Closing Price](https://fcc-10strmltapps-app005-001.streamlit.app/)\n
-    Retrieving S&P Stock Closing Price Information from the internet.\n
 
-[6. Top 100 Cryptocurrency Prices](https://fcc-10strmltapps-app006-001.streamlit.app/)\n
-    Shows Top 100 Cryptocurrency prices in a time period.\n
+[2. DNA Nucleotide Count Web App](https://fcc-10strmltapps-app003-001.streamlit.app/)
 
-[7. Iris Classification](https://fcc-10strmltapps-app007-001.streamlit.app/)\n
-    Iris Species Classification.\n
+    Counts each of the four nucleotides on a given DNA Sequence.
 
-[8. Penguin Classification](https://fcc-10strmltapps-app008-001.streamlit.app/)\n
-    Penguin Species Classification.\n
 
-[9. California Housing](https://fcc-10strmltapps-app009-001.streamlit.app/)\n
-    Regression on California Housing Dataset.\n
 
-[10. Solubility Prediction](https://fcc-10strmltapps-app010-001.streamlit.app/)\n
-    Solubility (LogS) prediction.\n
+[3.  NBA Player Stats](https://fcc-10strmltapps-app003-001.streamlit.app/)
+
+    Retrieving NBA Player Statistics from the internet.
+
+
+
+[4. NFL Player Stats](https://fcc-10strmltapps-app004-001.streamlit.app/)
+
+    Retrieving NFL Player Statistics from the internet.
+
+
+
+[5. S&P 500 Stock Closing Price](https://fcc-10strmltapps-app005-001.streamlit.app/)
+
+    Retrieving S&P Stock Closing Price Information from the internet.
+
+
+
+[6. Top 100 Cryptocurrency Prices](https://fcc-10strmltapps-app006-001.streamlit.app/)
+
+    Shows Top 100 Cryptocurrency prices in a time period.
+
+
+
+[7. Iris Classification](https://fcc-10strmltapps-app007-001.streamlit.app/)
+
+    Iris Species Classification.
+
+
+
+[8. Penguin Classification](https://fcc-10strmltapps-app008-001.streamlit.app/)
+
+    Penguin Species Classification.
+
+
+
+[9. California Housing](https://fcc-10strmltapps-app009-001.streamlit.app/)
+
+    Regression on California Housing Dataset.
+
+
+
+
+[10. Solubility Prediction](https://fcc-10strmltapps-app010-001.streamlit.app/)
+    Solubility (LogS) prediction.
+
+
+
 <br>
 ## General Information
 

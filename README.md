@@ -37,47 +37,47 @@ Shows the Stock Closing Price and Volume for a specific company.
 
 
 
-[2. DNA Nucleotide Count Web App](https://fcc-10strmltapps-app003-001.streamlit.app/)
+[2. DNA Nucleotide Count Web App](https://fcc-10strmltapps-app003-001.streamlit.app/) <br>
 Counts each of the four nucleotides on a given DNA Sequence.
 
 
 
-[3.  NBA Player Stats](https://fcc-10strmltapps-app003-001.streamlit.app/)
+[3.  NBA Player Stats](https://fcc-10strmltapps-app003-001.streamlit.app/) <br>
 Retrieving NBA Player Statistics from the internet.
 
 
 
-[4. NFL Player Stats](https://fcc-10strmltapps-app004-001.streamlit.app/)
+[4. NFL Player Stats](https://fcc-10strmltapps-app004-001.streamlit.app/) <br>
 Retrieving NFL Player Statistics from the internet.
 
 
 
-[5. S&P 500 Stock Closing Price](https://fcc-10strmltapps-app005-001.streamlit.app/)
+[5. S&P 500 Stock Closing Price](https://fcc-10strmltapps-app005-001.streamlit.app/) <br>
 Retrieving S&P Stock Closing Price Information from the internet.
 
 
 
-[6. Top 100 Cryptocurrency Prices](https://fcc-10strmltapps-app006-001.streamlit.app/)
+[6. Top 100 Cryptocurrency Prices](https://fcc-10strmltapps-app006-001.streamlit.app/) <br>
 Shows Top 100 Cryptocurrency prices in a time period.
 
 
 
-[7. Iris Classification](https://fcc-10strmltapps-app007-001.streamlit.app/)
+[7. Iris Classification](https://fcc-10strmltapps-app007-001.streamlit.app/) <br>
 Iris Species Classification.
 
 
 
-[8. Penguin Classification](https://fcc-10strmltapps-app008-001.streamlit.app/)
+[8. Penguin Classification](https://fcc-10strmltapps-app008-001.streamlit.app/) <br>
 Penguin Species Classification.
 
 
 
-[9. California Housing](https://fcc-10strmltapps-app009-001.streamlit.app/)
+[9. California Housing](https://fcc-10strmltapps-app009-001.streamlit.app/) <br>
 Regression on California Housing Dataset.
 
 
 
-[10. Solubility Prediction](https://fcc-10strmltapps-app010-001.streamlit.app/)
+[10. Solubility Prediction](https://fcc-10strmltapps-app010-001.streamlit.app/) <br>
 Solubility (LogS) prediction.
 
 

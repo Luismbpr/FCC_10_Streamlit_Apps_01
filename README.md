@@ -102,7 +102,7 @@ The following files will be located on each of the project folders:
 * HTML
 
 <br>
-## Libraries Used
+## Libraries Used <br>
 These are some of the libraries used:
 
     altair
@@ -124,7 +124,7 @@ These are some of the libraries used:
     yfinance
 
 <br>
-## Other Libraries Used
+## Other Libraries Used <br>
 List of other libraries:
 
     jupyter==1.0.0

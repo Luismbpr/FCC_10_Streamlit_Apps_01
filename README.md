@@ -73,6 +73,7 @@ Solubility (LogS) prediction.
 
 
 <br>
+
 ## General Information
 
 Each Project Contains all the required information for that app.
@@ -102,7 +103,8 @@ The following files will be located on each of the project folders:
 * HTML
 
 <br>
-## Libraries Used <br>
+
+## Libraries Used
 These are some of the libraries used:
 
     altair
@@ -124,7 +126,8 @@ These are some of the libraries used:
     yfinance
 
 <br>
-## Other Libraries Used <br>
+
+## Other Libraries Used
 List of other libraries:
 
     jupyter==1.0.0
